@@ -1,0 +1,1604 @@
+.letter {
+	width:200px;
+	height: 300px;
+	position: relative;
+	top: 20px;
+	margin-left: 50px;
+	margin-right: 20px;
+	display: inline-block;
+	overflow: visible;
+}
+
+#b {
+}
+
+#b .quarter {
+	width:50px; 
+    height:50px;  
+    background: black;
+    border-radius: 0 100px 0 0;
+    position:absolute;
+    left: 100px;
+    top: 200px;
+    display:inline-block;
+}
+
+#b .quarterflip {
+	width:50px; 
+    height:50px;  
+    background: black;
+    border-radius: 0 0 0 100px;
+    top:250px;
+    left:50px;
+    position: absolute;
+    display:inline-block;
+}
+
+#b .bar {
+	background: black;
+	width: 7px;
+	height: 240px;
+	position: absolute;
+	bottom: 0px;
+	left:30px;
+	display:inline-block;
+}
+
+#b:hover .quarter {
+	background:#ff1493;
+}
+
+#b:hover .quarterflip {
+	background: #ff1493;
+}
+
+
+#b2 {
+}
+
+
+#b2 .quarter {
+	width:50px; 
+    height:50px;  
+    background: black;
+    border-radius: 0 100px 0 0;
+    position:absolute;
+    left: 100px;
+    top:200px;
+    display:inline-block;
+}
+
+#b2 .quarterflip {
+	width:50px; 
+    height:50px;  
+    background: black;
+    border-radius: 0 0 0 100px;
+    top:250px;
+    left:50px;
+    position: absolute;
+    display:inline-block;
+}
+
+#b2 .bar {
+	background: black;
+	width: 7px;
+	height: 240px;
+	position: absolute;
+	bottom: 0px;
+	left:30px;
+	display:inline-block;
+}
+
+#b3 {
+}
+
+
+#b3 .quarter {
+	width:50px; 
+    height:50px;  
+    background: #D3D3D3;
+    border-radius: 0 100px 0 0;
+    position:absolute;
+    left: 100px;
+    top:200px;
+    display:inline-block;
+}
+
+#b3 .quarterflip {
+	width:50px; 
+    height:50px;  
+    background: black;
+    border-radius: 0 0 0 100px;
+    top:250px;
+    left:50px;
+    position: absolute;
+    display:inline-block;
+}
+
+#b3 .bar {
+	background: black;
+	width: 7px;
+	height: 240px;
+	position: absolute;
+	bottom: 0px;
+	left:30px;
+	display:inline-block;
+}
+
+#b3:hover .quarter {
+	background:black;
+}
+
+#b3:hover .quarterflip {
+	background: #D3D3D3;
+}
+
+#b4 {
+}
+
+
+#b4 .quarter {
+	width:50px; 
+    height:50px;  
+    background: #D3D3D3;
+    border-radius: 0 100px 0 0;
+    position:absolute;
+    left: 100px;
+    top:200px;
+}
+
+#b4 .quarterflip {
+	width:50px; 
+    height:50px;  
+    background: black;
+    border-radius: 0 0 0 100px;
+    top:250px;
+    left:50px;
+    position: absolute;
+}
+
+#b4 .bar {
+	background: black;
+	width: 7px;
+	height: 240px;
+	position: absolute;
+	bottom: 0px;
+	left:30px;
+
+}
+
+#b5 {
+}
+
+
+#b5 .quarter {
+	width:50px; 
+    height:50px;  
+    background: black;
+    border-radius: 0 100px 0 0;
+    position:absolute;
+    left: 100px;
+    top:200px;
+}
+
+#b5 .quarterflip {
+	width:50px; 
+    height:50px;  
+    background: black;
+    border-radius: 0 0 0 100px;
+    top:250px;
+    left:50px;
+    position: absolute;
+}
+
+#b5 .bar {
+	background: black;
+	width: 7px;
+	height: 240px;
+	position: absolute;
+	bottom: 0px;
+	left:30px;
+
+}
+
+#b6 {
+}
+
+#b6 .quarter {
+	width:50px; 
+    height:50px;  
+    background: black;
+    border-radius: 0 100px 0 0;
+    position:absolute;
+    left: 100px;
+    top:200px;
+}
+
+#b6 .quarterflip {
+	width:50px; 
+    height:50px;  
+    background: black;
+    border-radius: 0 0 0 100px;
+    top:250px;
+    left:50px;
+    position: absolute;
+}
+
+#b6 .bar {
+	background: black;
+	width: 7px;
+	height: 240px;
+	position: absolute;
+	bottom: 0px;
+	left:30px;
+
+}
+
+#b7 {
+}
+
+
+#b7 .quarter {
+	width:50px; 
+    height:50px;  
+    background: black;
+    border-radius: 0 100px 0 0;
+    position:absolute;
+    left: 100px;
+    top:200px;
+}
+
+#b7 .quarterflip {
+	width:50px; 
+    height:50px;  
+    background: black;
+    border-radius: 0 0 0 100px;
+    top:250px;
+    left:50px;
+    position: absolute;
+}
+
+#b7 .bar {
+	background: black;
+	width: 7px;
+	height: 240px;
+	position: absolute;
+	bottom: 0px;
+	left:30px;
+
+}
+
+#b8 {
+}
+
+
+#b8 .quarter {
+	width:50px; 
+    height:50px;  
+    background: black;
+    border-radius: 0 100px 0 0;
+    position:absolute;
+    left: 100px;
+    top:200px;
+}
+
+#b8 .quarterflip {
+	width:50px; 
+    height:50px;  
+    background: black;
+    border-radius: 0 0 0 100px;
+    top:250px;
+    left:50px;
+    position: absolute;
+}
+
+#b8 .bar {
+	background: black;
+	width: 7px;
+	height: 240px;
+	position: absolute;
+	bottom: 0px;
+	left:30px;
+
+}
+
+
+#b9 {
+}
+
+
+#b9 .quarter {
+	width:50px; 
+    height:50px;  
+    background: black;
+    border-radius: 0 100px 0 0;
+    position:absolute;
+    left: 100px;
+    top:200px;
+}
+
+#b9 .quarterflip {
+	width:50px; 
+    height:50px;  
+    background: black;
+    border-radius: 0 0 0 100px;
+    top:250px;
+    left:50px;
+    position: absolute;
+}
+
+#b9 .bar {
+	background: black;
+	width: 7px;
+	height: 240px;
+	position: absolute;
+	bottom: 0px;
+	left:30px;
+
+}
+
+#b9:hover .bar {
+	display:none;
+}
+
+#b10 {
+}
+
+
+#b10 .quarter {
+	width:50px; 
+    height:50px;  
+    background: black;
+    border-radius: 0 100px 0 0;
+    position:absolute;
+    left: 100px;
+    top:200px;
+}
+
+#b10 .quarterflip {
+	width:50px; 
+    height:50px;  
+    background: black;
+    border-radius: 0 0 0 100px;
+    top:250px;
+    left:50px;
+    position: absolute;
+}
+
+#b10 .bar {
+	background: black;
+	width: 7px;
+	height: 240px;
+	position: absolute;
+	bottom: 0px;
+	left:30px;
+
+}
+
+#b10:hover .quarter {
+	border-radius: 100px 0 0 0;
+	left: 50px;
+}
+
+#b10:hover .quarterflip {
+	border-radius: 0 0 100px 0;
+	left: 100px;
+}
+
+
+#b11 {
+}
+
+
+#b11 .quarter {
+	width:50px; 
+    height:50px;  
+    background: black;
+    border-radius: 0 100px 0 0;
+    position:absolute;
+    left: 100px;
+    top:200px;
+}
+
+#b11 .quarterflip {
+	width:50px; 
+    height:50px;  
+    background: black;
+    border-radius: 0 0 0 100px;
+    top:250px;
+    left:50px;
+    position: absolute;
+}
+
+#b11 .bar {
+	background: black;
+	width: 7px;
+	height: 240px;
+	position: absolute;
+	bottom: 0px;
+	left:30px;
+
+}
+
+
+#b12 {
+}
+
+
+#b12 .quarter {
+	width:50px; 
+    height:50px;  
+    background: black;
+    border-radius: 0 100px 0 0;
+    position:absolute;
+    left: 100px;
+    top:200px;
+}
+
+#b12 .quarterflip {
+	width:50px; 
+    height:50px;  
+    background: black;
+    border-radius: 0 0 0 100px;
+    top:250px;
+    left:50px;
+    position: absolute;
+}
+
+#b12 .bar {
+	background: black;
+	width: 7px;
+	height: 240px;
+	position: absolute;
+	bottom: 0px;
+	left:30px;
+
+}
+
+#b12:hover .quarterflip{
+	border-radius: 0 0 100px 0;
+	left: 100px;
+}
+
+
+#b13 {
+}
+
+.whole {
+  -webkit-animation: rotateY 1s infinite linear;
+  animation: rotateY 1s infinite linear;
+}
+@-webkit-keyframes rotateY {
+  to { -webkit-transform: rotateY(360deg); }
+}
+@keyframes rotateY {
+  to { transform: rotateY(360deg); }
+}
+
+#b13 .quarter {
+	width:50px; 
+    height:50px;  
+    background: black;
+    border-radius: 0 100px 0 0;
+    position:absolute;
+    left: 100px;
+    top:200px;
+}
+
+#b13 .quarterflip {
+	width:50px; 
+    height:50px;  
+    background: black;
+    border-radius: 0 0 0 100px;
+    top:250px;
+    left:50px;
+    position: absolute;
+}
+
+#b13 .bar {
+	background: black;
+	width: 7px;
+	height: 240px;
+	position: absolute;
+	bottom: 0px;
+	left:30px;
+
+}
+
+
+#b14 {
+}
+
+
+#b14 .quarter {
+	width:50px; 
+    height:50px;  
+    background: black;
+    border-radius: 0 100px 0 0;
+    position:absolute;
+    left: 100px;
+    top:200px;
+}
+
+#b14 .quarterflip {
+	width:50px; 
+    height:50px;  
+    background: black;
+    border-radius: 0 0 0 100px;
+    top:250px;
+    left:50px;
+    position: absolute;
+}
+
+#b14 .bar {
+	background: black;
+	width: 7px;
+	height: 240px;
+	position: absolute;
+	bottom: 0px;
+	left:30px;
+
+}
+
+#b14:hover .quarter {
+	border-radius: 100px 0 0 0;
+
+}
+
+#b14:hover .quarterflip{
+	border-radius: 0 0 100px 0;
+
+}
+
+#b15 {
+	overflow: visible;
+}
+
+
+#b15 .quarter {
+	width:50px; 
+    height:50px;  
+    background: black;
+    border-radius: 0 100px 0 0;
+    position:absolute;
+    left: 100px;
+    top:200px;
+}
+
+#b15 .quarterflip {
+	width:50px; 
+    height:50px;  
+    background: black;
+    border-radius: 0 0 0 100px;
+    top:250px;
+    left:50px;
+    position: absolute;
+}
+
+#b15 .bar {
+	background: black;
+	width: 7px;
+	height: 240px;
+	position: absolute;
+	bottom: 0px;
+	left:30px;
+
+}
+
+#b16 {
+}
+
+
+#b16 .quarter {
+	width:50px; 
+    height:50px;  
+    background: black;
+    border-radius: 0 100px 0 0;
+    position:absolute;
+    left: 100px;
+    top:200px;
+}
+
+#b16 .quarterflip {
+	width:50px; 
+    height:50px;  
+    background: black;
+    border-radius: 0 0 0 100px;
+    top:250px;
+    left:50px;
+    position: absolute;
+}
+
+#b16 .bar {
+	background: black;
+	width: 7px;
+	height: 240px;
+	position: absolute;
+	bottom: 0px;
+	left:30px;
+
+}
+
+#b17 {
+}
+
+
+#b17 .quarter {
+	width:50px; 
+    height:50px;  
+    background: black;
+    border-radius: 0 100px 0 0;
+    position:absolute;
+    left: 100px;
+    top:200px;
+}
+
+#b17 .quarterflip {
+	width:50px; 
+    height:50px;  
+    background: black;
+    border-radius: 0 0 0 100px;
+    top:250px;
+    left:50px;
+    position: absolute;
+}
+
+#b17 .bar {
+	background: black;
+	width: 7px;
+	height: 240px;
+	position: absolute;
+	bottom: 0px;
+	left:30px;
+
+}
+
+.whole2 {
+	width: 200px;
+  height: 500px;
+  transition: transform .5s linear;
+  transform-origin: center;
+  transform-style: preserve-3D;
+}
+
+.whole2-rotate {
+transform: rotate(360deg);
+}
+
+#b18 {
+}
+
+
+#b18 .quarter {
+	width:50px; 
+    height:50px;  
+    background: black;
+    border-radius: 0 100px 0 0;
+    position:absolute;
+    left: 100px;
+    top:200px;
+}
+
+#b18 .quarterflip {
+	width:50px; 
+    height:50px;  
+    background: black;
+    border-radius: 0 0 0 100px;
+    top:250px;
+    left:50px;
+    position: absolute;
+}
+
+#b18 .bar {
+	background: black;
+	width: 7px;
+	height: 240px;
+	position: absolute;
+	bottom: 0px;
+	left:30px;
+
+}
+
+.whole3 {
+	width: 200px;
+  height: 500px;
+  transition: transform .5s linear;
+  transform-origin: center;
+  transform-style: preserve-3D;
+}
+
+.whole3-rotate {
+transform: rotate(360deg);
+} 
+
+
+#b19 {
+}
+
+
+#b19 .quarter {
+	width:50px; 
+    height:50px;  
+    background: black;
+    border-radius: 0 100px 0 0;
+    position:absolute;
+    left: 100px;
+    top:200px;
+}
+
+#b19 .quarterflip {
+	width:50px; 
+    height:50px;  
+    background: black;
+    border-radius: 0 0 0 100px;
+    top:250px;
+    left:50px;
+    position: absolute;
+}
+
+#b19 .bar {
+	background: black;
+	width: 7px;
+	height: 240px;
+	position: absolute;
+	bottom: 0px;
+	left:30px;
+
+}
+
+#b20 {
+
+}
+
+
+#b20 .quarter {
+	width:50px; 
+    height:50px;  
+    background: black;
+    border-radius: 0 100px 0 0;
+    position:absolute;
+    left: 100px;
+    top:200px;
+}
+
+#b20 .quarterflip {
+	width:50px; 
+    height:50px;  
+    background: black;
+    border-radius: 0 0 0 100px;
+    top:250px;
+    left:50px;
+    position: absolute;
+}
+
+#b20 .bar {
+	background: black;
+	width: 7px;
+	position: absolute;
+	bottom: 0px;
+	left:30px;
+
+}
+
+@keyframes float {
+	0% {
+		transform: translatey(0px);
+	}
+	50% {
+		transform: translatey(-50px);
+	}
+	100% {
+		transform: translatey(0px);
+	}
+}
+
+
+#b21 {
+}
+
+#b21 .whole4 {
+	transform: translatey(0px);
+	animation: float 6s ease-in-out infinite;
+	img { width: 100%; height: auto; }
+
+}
+
+#b21 .quarter {
+	width:50px; 
+    height:50px;  
+    background: black;
+    border-radius: 0 100px 0 0;
+    position:absolute;
+    left: 100px;
+    top:200px;
+}
+
+#b21 .quarterflip {
+	width:50px; 
+    height:50px;  
+    background: black;
+    border-radius: 0 0 0 100px;
+    top:250px;
+    left:50px;
+    position: absolute;
+}
+
+#b21 .bar {
+	background: black;
+	width: 7px;
+	height: 240px;
+	position: absolute;
+	bottom: 0px;
+	left:30px;
+
+}
+
+#b22 {
+	height: 240px;
+
+}
+
+
+#b22 .quarter {
+	width:50px; 
+    height:50px;  
+    background: black;
+    border-radius: 0 100px 0 0;
+    position:absolute;
+    left: 100px;
+    top:135px;
+}
+
+#b22 .quarterflip {
+	width:50px; 
+    height:50px;  
+    background: black;
+    border-radius: 0 0 0 100px;
+    top:185px;
+    left:50px;
+    position: absolute;
+}
+
+#b22 .bar {
+	background: black;
+	width: 7px;
+	height: 240px;
+	position: absolute;
+	bottom: 0px;
+	left:30px;
+}
+
+#b23 {
+	height: 240px;
+
+}
+
+
+#b23 .quarter {
+	width:50px; 
+    height:50px;  
+    background: black;
+    border-radius: 0 100px 0 0;
+    position:absolute;
+    left: 100px;
+    top:135px;
+}
+
+#b23 .quarterflip {
+	width:50px; 
+    height:50px;  
+    background: black;
+    border-radius: 0 0 0 100px;
+    top:185px;
+    left:50px;
+    position: absolute;
+}
+
+#b23 .bar {
+	background: black;
+	width: 7px;
+	height: 240px;
+	position: absolute;
+	bottom: 0px;
+	left:30px;
+}
+
+#b24 {
+
+}
+
+
+#b24 .quarter {
+	width:50px; 
+    height:50px;  
+    background: black;
+    border-radius: 0 100px 0 0;
+    position:absolute;
+    left: 100px;
+    top:200px;
+}
+
+#b24 .quarterflip {
+	width:50px; 
+    height:50px;  
+    background: black;
+    border-radius: 0 0 0 100px;
+    top:250px;
+    left:50px;
+    position: absolute;
+}
+
+#b24 .bar {
+	background: black;
+	width: 7px;
+	height: 240px;
+	position: absolute;
+	bottom: 0px;
+	left:30px;
+}
+
+#b25 {
+
+
+}
+
+
+#b25 .quarter {
+	width:50px; 
+    height:50px;  
+    background: black;
+    border-radius: 0 100px 0 0;
+    position:absolute;
+    left: 100px;
+    top:200px;
+}
+
+#b25 .quarterflip {
+	width:50px; 
+    height:50px;  
+    background: black;
+    border-radius: 0 0 0 100px;
+    top:250px;
+    left:50px;
+    position: absolute;
+}
+
+#b25 .bar {
+	background: black;
+	width: 7px;
+	height: 240px;
+	position: absolute;
+	bottom: 0px;
+	left:30px;
+}
+
+#b26 {
+
+
+}
+
+
+#b26 .quarter {
+	width:50px; 
+    height:50px;  
+    background: black;
+    border-radius: 0 100px 0 0;
+    position:absolute;
+    left: 100px;
+    top:200px;
+}
+
+#b26 .quarterflip {
+	width:50px; 
+    height:50px;  
+    background: black;
+    border-radius: 0 0 0 100px;
+    top:250px;
+    left:50px;
+    position: absolute;
+}
+
+#b26 .bar {
+	background: black;
+	width: 7px;
+	height: 240px;
+	position: absolute;
+	bottom: 0px;
+	left:30px;
+}
+
+#b27 {
+
+
+}
+
+
+#b27 .quarter {
+	width:50px; 
+    height:50px;  
+    background: black;
+    border-radius: 0 100px 0 0;
+    position:absolute;
+    left: 100px;
+    top:200px;
+}
+
+#b27 .quarterflip {
+	width:50px; 
+    height:50px;  
+    background: black;
+    border-radius: 0 0 0 100px;
+    top:250px;
+    left:50px;
+    position: absolute;
+}
+
+#b27 .bar {
+	background: black;
+	width: 7px;
+	height: 240px;
+	position: absolute;
+	bottom: 0px;
+	left:30px;
+}
+
+#b28 {
+
+
+}
+
+
+#b28 .quarter {
+	width:50px; 
+    height:50px;  
+    background: black;
+    border-radius: 0 100px 0 0;
+    position:absolute;
+    left: 100px;
+    top:200px;
+}
+
+#b28 .quarterflip {
+	width:50px; 
+    height:50px;  
+    background: black;
+    border-radius: 0 0 0 100px;
+    top:250px;
+    left:50px;
+    position: absolute;
+}
+
+#b28 .bar {
+	background: black;
+	width: 7px;
+	height: 240px;
+	position: absolute;
+	bottom: 0px;
+	left:30px;
+}
+
+#b29 {
+
+
+}
+
+
+#b29 .quarter {
+	width:50px; 
+    height:50px;  
+    background: black;
+    border-radius: 0 100px 0 0;
+    position:absolute;
+    left: 100px;
+    top:200px;
+}
+
+#b29 .quarterflip {
+	width:50px; 
+    height:50px;  
+    background: black;
+    border-radius: 0 0 0 100px;
+    top:250px;
+    left:50px;
+    position: absolute;
+}
+
+#b29 .bar {
+	background: black;
+	width: 7px;
+	height: 240px;
+	position: absolute;
+	bottom: 0px;
+	left:30px;
+}
+
+#b30 {
+
+
+}
+
+
+#b30 .quarter {
+	width:50px; 
+    height:50px;  
+    background: black;
+    border-radius: 0 100px 0 0;
+    position:absolute;
+    left: 100px;
+    top:200px;
+}
+
+#b30 .quarterflip {
+	width:50px; 
+    height:50px;  
+    background: black;
+    border-radius: 0 0 0 100px;
+    top:250px;
+    left:50px;
+    position: absolute;
+}
+
+#b30 .bar {
+	background: black;
+	width: 7px;
+	height: 240px;
+	position: absolute;
+	bottom: 0px;
+	left:30px;
+}
+
+#b31 {
+
+
+}
+
+
+#b31 .quarter {
+	width:50px; 
+    height:50px;  
+    background: black;
+    border-radius: 0 100px 0 0;
+    position:absolute;
+    left: 100px;
+    top:200px;
+}
+
+#b31 .quarterflip {
+	width:50px; 
+    height:50px;  
+    background: black;
+    border-radius: 0 0 0 100px;
+    top:250px;
+    left:50px;
+    position: absolute;
+}
+
+#b31 .bar {
+	background: black;
+	width: 7px;
+	height: 240px;
+	position: absolute;
+	bottom: 0px;
+	left:30px;
+}
+
+#b32 {
+
+
+}
+
+
+#b32 .quarter {
+	width:50px; 
+    height:50px;  
+    background: black;
+    border-radius: 0 100px 0 0;
+    position:absolute;
+    left: 100px;
+    top:200px;
+}
+
+
+#b32 .quarterflip {
+	width:50px; 
+    height:50px;  
+    background: black;
+    border-radius: 0 0 0 100px;
+    top:250px;
+    left:50px;
+    position: absolute;
+}
+
+#b32 .bar {
+	background: black;
+	width: 7px;
+	height: 240px;
+	position: absolute;
+	bottom: 0px;
+	left:30px;
+}
+
+#b33 {
+
+
+}
+
+
+#b33 .quarter {
+	width:50px; 
+    height:50px;  
+    background: black;
+    border-radius: 0 100px 0 0;
+    position:absolute;
+    left: 100px;
+    top:200px;
+}
+
+#b33 .quarterflip {
+	width:50px; 
+    height:50px;  
+    background: black;
+    border-radius: 0 0 0 100px;
+    top:250px;
+    left:50px;
+    position: absolute;
+}
+
+#b33 .bar {
+	background: black;
+	width: 7px;
+	height: 240px;
+	position: absolute;
+	bottom: 0px;
+	left:30px;
+}
+
+#b34 {
+
+
+}
+
+
+#b34 .quarter {
+	width:50px; 
+    height:50px;  
+    background: black;
+    border-radius: 0 100px 0 0;
+    position:absolute;
+    left: 100px;
+    top:200px;
+}
+
+#b34 .quarterflip {
+	width:50px; 
+    height:50px;  
+    background: black;
+    border-radius: 0 0 0 100px;
+    top:250px;
+    left:50px;
+    position: absolute;
+}
+
+#b34 .bar {
+	background: black;
+	width: 7px;
+	height: 240px;
+	position: absolute;
+	bottom: 0px;
+	left:30px;
+}
+
+#b35 {
+
+
+}
+
+
+#b35 .quarter {
+	width:50px; 
+    height:50px;  
+    background: black;
+    border-radius: 0 100px 0 0;
+    position:absolute;
+    left: 100px;
+    top:200px;
+}
+
+#b35 .quarterflip {
+	width:50px; 
+    height:50px;  
+    background: black;
+    border-radius: 0 0 0 100px;
+    top:250px;
+    left:50px;
+    position: absolute;
+}
+
+#b35 .bar {
+	background: black;
+	width: 7px;
+	height: 240px;
+	position: absolute;
+	bottom: 0px;
+	left:30px;
+}
+
+#b36 {
+
+
+}
+
+
+#b36 .quarter {
+	width:50px; 
+    height:50px;  
+    background: black;
+    border-radius: 0 100px 0 0;
+    position:absolute;
+    left: 100px;
+    top:200px;
+}
+
+#b36 .quarterflip {
+	width:50px; 
+    height:50px;  
+    background: black;
+    border-radius: 0 0 0 100px;
+    top:250px;
+    left:50px;
+    position: absolute;
+}
+
+#b36 .bar {
+	background: black;
+	width: 7px;
+	height: 240px;
+	position: absolute;
+	bottom: 0px;
+	left:30px;
+}
+
+#b37 {
+
+
+}
+
+
+#b37 .quarter {
+	width:50px; 
+    height:50px;  
+    background: black;
+    border-radius: 0 100px 0 0;
+    position:absolute;
+    left: 100px;
+    top:200px;
+}
+
+#b37 .quarterflip {
+	width:50px; 
+    height:50px;  
+    background: black;
+    border-radius: 0 0 0 100px;
+    top:250px;
+    left:50px;
+    position: absolute;
+}
+
+#b37 .bar {
+	background: black;
+	width: 7px;
+	height: 240px;
+	position: absolute;
+	bottom: 0px;
+	left:30px;
+}
+
+#b38 {
+
+
+}
+
+
+#b38 .quarter {
+	width:50px; 
+    height:50px;  
+    background: black;
+    border-radius: 0 100px 0 0;
+    position:absolute;
+    left: 100px;
+    top:200px;
+}
+
+#b38 .quarterflip {
+	width:50px; 
+    height:50px;  
+    background: black;
+    border-radius: 0 0 0 100px;
+    top:250px;
+    left:50px;
+    position: absolute;
+}
+
+#b38 .bar {
+	background: black;
+	width: 7px;
+	height: 240px;
+	position: absolute;
+	bottom: 0px;
+	left:30px;
+}
+
+#b39 {
+
+
+}
+
+
+#b39 .quarter {
+	width:50px; 
+    height:50px;  
+    background: black;
+    border-radius: 0 100px 0 0;
+    position:absolute;
+    left: 100px;
+    top:200px;
+}
+
+#b39 .quarterflip {
+	width:50px; 
+    height:50px;  
+    background: black;
+    border-radius: 0 0 0 100px;
+    top:250px;
+    left:50px;
+    position: absolute;
+}
+
+#b39 .bar {
+	background: black;
+	width: 7px;
+	height: 240px;
+	position: absolute;
+	bottom: 0px;
+	left:30px;
+}
+
+#b40 {
+
+
+}
+
+
+#b40 .quarter {
+	width:50px; 
+    height:50px;  
+    background: black;
+    border-radius: 0 100px 0 0;
+    position:absolute;
+    left: 100px;
+    top:200px;
+}
+
+#b40 .quarterflip {
+	width:50px; 
+    height:50px;  
+    background: black;
+    border-radius: 0 0 0 100px;
+    top:250px;
+    left:50px;
+    position: absolute;
+}
+
+#b40 .bar {
+	background: black;
+	width: 7px;
+	height: 240px;
+	position: absolute;
+	bottom: 0px;
+	left:30px;
+}
+
+#b41 {
+
+
+}
+
+
+#b41 .quarter {
+	width:50px; 
+    height:50px;  
+    background: black;
+    border-radius: 0 100px 0 0;
+    position:absolute;
+    left: 100px;
+    top:200px;
+}
+
+#b41 .quarterflip {
+	width:50px; 
+    height:50px;  
+    background: black;
+    border-radius: 0 0 0 100px;
+    top:250px;
+    left:50px;
+    position: absolute;
+}
+
+#b41 .bar {
+	background: black;
+	width: 7px;
+	height: 240px;
+	position: absolute;
+	bottom: 0px;
+	left:30px;
+}
+
+#b42 {
+
+
+}
+
+
+#b42 .quarter {
+	width:50px; 
+    height:50px;  
+    background: black;
+    border-radius: 0 100px 0 0;
+    position:absolute;
+    left: 100px;
+    top:200px;
+}
+
+#b42 .quarterflip {
+	width:50px; 
+    height:50px;  
+    background: black;
+    border-radius: 0 0 0 100px;
+    top:250px;
+    left:50px;
+    position: absolute;
+}
+
+#b42 .bar {
+	background: black;
+	width: 7px;
+	height: 240px;
+	position: absolute;
+	bottom: 0px;
+	left:30px;
+}
+
+#b43 {
+
+
+}
+
+
+#b43 .quarter {
+	width:50px; 
+    height:50px;  
+    background: black;
+    border-radius: 0 100px 0 0;
+    position:absolute;
+    left: 100px;
+    top:200px;
+}
+
+#b43 .quarterflip {
+	width:50px; 
+    height:50px;  
+    background: black;
+    border-radius: 0 0 0 100px;
+    top:250px;
+    left:50px;
+    position: absolute;
+}
+
+#b43 .bar {
+	background: black;
+	width: 7px;
+	height: 240px;
+	position: absolute;
+	bottom: 0px;
+	left:30px;
+}
