@@ -184,12 +184,6 @@ $('#b31').mouseover(function(){
 	$('#b31 .bar').stop().animate ({
 		left: '163px'
 	});
-
-
-
-
-
-});
 });
  });
 });
@@ -197,8 +191,6 @@ $('#b31').mouseover(function(){
  });
 
 });
-
-
 
 
 
