@@ -1,0 +1,233 @@
+html, body{
+	width: 100%;
+	height:100%;
+
+}
+
+.skrollr-container{
+	width: 100%;
+	height:100%;
+	overflow:hidden;
+}
+
+.sections{
+	position:fixed;
+	width:100%;
+	height:100%;
+	top:0;
+	left:0;
+	
+}
+
+.section{
+	position:absolute;
+	top:0;
+	left:0;
+	width:50%;
+	height:50%;
+}
+
+
+.spin{
+	position:fixed;
+	width:.2%;
+	height:30%;
+	top:30%;
+	left:50%;
+}
+
+.color{
+	position:fixed;
+	width:15%;
+	height:40px;
+	top:50%;
+	left:40%;
+}
+
+.leftright{
+	position:fixed;
+	width:15%;
+	height:20px;
+	top:50%;
+	left:30%;
+	color: blue;
+}
+
+.colorspin{
+	position:fixed;
+	width:15%;
+	height:20px;
+	top:50%;
+	left:40%;
+}
+
+#helper{
+	/*display:none;*/
+	position:absolute;
+	left:0;
+	top:0;
+	height:400%;
+	width:20px;
+	overflow: scroll;
+}
+
+.text {
+	font-family: 'Helvetica';
+	font-weight: 'light';
+	font-size: 30px;
+	color: black;
+	position: fixed;
+	top:30%;
+	left:41%;
+}
+
+.text2 {
+	font-family: 'Helvetica';
+	font-weight: 'light';
+	font-size: 30px;
+	color: black;
+	position: fixed;
+	top:0%;
+	left:46%;
+}
+
+.text3 {
+	font-family: 'Helvetica';
+	font-weight: bolder;
+	font-size: 30px;
+	color: black;
+	position: fixed;
+	top:0%;
+	left:37%;
+	color:blue;
+}
+
+.text4 {
+	font-family: 'Helvetica';
+	font-weight: 'bold';
+	font-size: 30px;
+	color: black;
+	position: fixed;
+	top:0%;
+	left:36.3%;
+	color:orange;
+}
+
+.text5 {
+	font-family: 'Helvetica';
+	font-weight: bolder;
+	font-size: 30px;
+	color: black;
+	position: fixed;
+	top:40%;
+	left:37%;
+	color:blue;
+}
+
+.text6 {
+	font-family: 'Helvetica';
+	font-weight: 'bold';
+	font-size: 30px;
+	color: black;
+	position: fixed;
+	top:40%;
+	left:36.3%;
+	color:orange;
+}
+
+.text7 {
+	font-family: 'Helvetica';
+	font-weight: 'bold';
+	font-size: 30px;
+	color: black;
+	position: fixed;
+	top:40%;
+	left:36.3%;
+	color:gold;
+}
+
+.text8 {
+	font-family: 'Helvetica';
+	font-weight: 'bold';
+	font-size: 30px;
+	color: black;
+	position: fixed;
+	top:40%;
+	left:36.3%;
+	color:deeppink;
+}
+
+.up {
+	position: fixed;
+	top:25%;
+	left:46%;
+	background-color: red;
+	width: 40px;
+	height: 300px;
+}
+
+.up2 {
+	position: fixed;
+	top:25%;
+	left:49%;
+	background-color: orange;
+	width: 40px;
+	height: 300px;
+}
+
+.up3 {
+	position: fixed;
+	top:25%;
+	left:52%;
+	background-color: yellow;
+	width: 40px;
+	height: 300px;
+}
+
+.all {
+	height:120%;
+	width: 120%;
+	left: -10px;
+	top: -10px;
+	position: fixed;
+
+}
+
+.ten {
+	background-color: aqua;
+	width: 100%;
+	height:100%;
+	top: 99%;
+	left:0%;
+	position: fixed;
+}
+
+.behind {
+	background-color: green;
+	width: 50px;
+	height: 50px;
+	top:50%;
+	left:50%;
+	position: fixed;
+}
+
+.behind2 {
+	background-color: green;
+	width: 50px;
+	height: 50px;
+	top:50%;
+	left:40%;
+	position: fixed;
+}
+
+.behind3 {
+	background-color: green;
+	width: 50px;
+	height: 50px;
+	top:50%;
+	left:60%;
+	position: fixed;
+}
+
+
+
