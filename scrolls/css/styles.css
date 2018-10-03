@@ -162,25 +162,25 @@ html, body{
 	top:25%;
 	left:46%;
 	background-color: red;
-	width: 30px;
+	width: 40px;
 	height: 300px;
 }
 
 .up2 {
 	position: fixed;
 	top:25%;
-	left:47.9%;
+	left:49%;
 	background-color: orange;
-	width: 30px;
+	width: 40px;
 	height: 300px;
 }
 
 .up3 {
 	position: fixed;
 	top:25%;
-	left:49.9%;
+	left:52%;
 	background-color: yellow;
-	width: 30px;
+	width: 40px;
 	height: 300px;
 }
 
