@@ -247,5 +247,24 @@ html, body{
         10px 0 80px #808000; 
 }
 
+.bteen {
+	border-radius: 50% 50% 50% 50%;
+	transform: rotate(300deg);
+	position: fixed;
+	top: 50%;
+	left: 45%;
+	height: 250px;
+	width: 250px;
+	box-shadow: 
+	inset 0 0 10px #ffff,
+	inset 50px 0 120px #8C1717,
+	inset -50px 0 120px 	#FFC1C1,
+	inset 50px 0 420px  #8C1717,
+	inset -50px 0 420px #FFC1C1,
+	0 0 60px #ffff,
+	-15px 0 96px #8C1717,
+	15px 0 96px 	#FFC1C1;
+
+}
 
 }
