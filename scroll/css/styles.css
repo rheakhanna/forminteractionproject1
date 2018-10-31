@@ -1,0 +1,251 @@
+html, body{
+	max-width: 100%;
+	max-height:100%;
+	background: black;
+
+}
+
+.skrollr-container{
+	width: 100%;
+	height:100%;
+	overflow:hidden;
+}
+
+
+
+.btwo {
+	
+	border-radius: 50% 50% 50% 50%;
+	position: fixed;
+	top: 15%;
+	left: 15%;
+	height: 250px;
+	width: 250px;
+	box-shadow: 
+	inset 0 0 15px #ffff,
+	inset 4px 0 15px  #FF0080,
+	inset -4px 0 15px 	#FFFF00,
+	inset 4px 0 75px  #FF0080,
+	inset -4px 0 75px 	#FFFF00,
+	0 0 20px #ffff,
+	-8px 0 40px #FF0080,
+	8px 0 40px #FFFF00;
+
+}
+
+.bthree {
+
+	border-radius: 50% 50% 50% 50%;
+	position: fixed;
+	left: 75%;
+	height: 250px;
+	width: 250px;
+	box-shadow: 
+	inset 0 0 10px #ffff,
+	inset 5px 0 30px  	#FFFF00,
+	inset -5px 0 30px 	#00FFFF,
+	inset 5px 0 120px  	#FFFF00,
+	inset -5px 0 120px 	#00FFFF,
+	0 0 20px #ffff,
+	-5px 0 60px 	#FFFF00,
+	5px 0 60px #00FFFF;
+
+}
+
+.bfour {
+
+	border-radius: 50% 50% 50% 50%;
+	position: fixed;
+	top: 50%;
+	left: 5%;
+	height: 250px;
+	width: 250px;
+	box-shadow: 
+	inset 0 0 10px #ffff,
+	inset 5px 0 40px  	#32CD32,
+	inset -5px 0 40px 	#FF4500,
+	inset 5px 0 270px  	#32CD32,
+	inset -5px 0 270px	#FF4500,
+	0 0 40px #ffff,
+	-5px 0 85px #32CD32,
+	5px 0 85px 	#FF4500;
+
+}
+
+.bfive {
+
+	border-radius: 50% 50% 50% 50%;
+	position: fixed;
+	top: 5%;
+	left: 50%;
+	height: 250px;
+	width: 250px;
+	box-shadow:
+        inset 0 0 50px #fff,      /* inner white */
+        inset 20px 0 80px #f0f,   /* inner left magenta short */
+        inset -20px 0 80px #0ff,  /* inner right cyan short */
+        inset 20px 0 300px #f0f,  /* inner left magenta broad */
+        inset -20px 0 300px #0ff, /* inner right cyan broad */
+        0 0 50px #fff,            /* outer white */
+        -10px 0 80px #f0f,        /* outer left magenta */
+        10px 0 80px #0ff;      
+
+}
+
+
+.bsix {
+	border-radius: 50% 50% 50% 50%;
+	position: fixed;
+	top: 5%;
+	left: 50%;
+	height: 250px;
+	width: 250px;
+	box-shadow:
+        inset 0 0 30px #fff,      /* inner white */
+        inset 20px 0 70px #FF4500,   /* inner left magenta short */
+        inset -20px 0 70px #007FFF,  /* inner right cyan short */
+        inset 20px 0 200px #FF4500,  /* inner left magenta broad */
+        inset -20px 0 200px #007FFF, /* inner right cyan broad */
+        0 0 30px #fff,            /* outer white */
+        -10px 0 80px #FF4500,        /* outer left magenta */
+        10px 0 80px #007FFF; 
+}
+
+
+.bseven {
+	border-radius: 50% 50% 50% 50%;
+	position: fixed;
+	top: 50%;
+	left: 5%;
+	height: 250px;
+	width: 250px;
+	box-shadow: 
+	inset 0 0 10px #ffff,
+	inset 20px 0 70px  		#FFCC11,
+	inset -20px 0 70px 	#8B008B,
+	inset 20px 0 200px  	#FFCC11,
+	inset -20px 0 200px	#8B008B,
+	0 0 30px #ffff,
+	-10px 0 80px 	#FFCC11,
+	10px 0 80px 	#8B008B;
+
+}
+
+.beight {
+	border-radius: 50% 50% 50% 50%;
+	position: fixed;
+	top: 50%;
+	left: 45%;
+	height: 250px;
+	width: 250px;
+	box-shadow: 
+	inset 0 0 10px #ffff,
+	inset 20px 0 70px  	#004738,
+	inset -20px 0 70px 	#00BFFF	,
+	inset 20px 0 200px  #004738,
+	inset -20px 0 200px	#00BFFF	,
+	0 0 30px #ffff,
+	-10px 0 80px 	#004738,
+	10px 0 80px 	#00BFFF	;
+
+}
+
+.bnine {
+	border-radius: 50% 50% 50% 50%;
+	position: fixed;
+	top: 50%;
+	left: 45%;
+	height: 250px;
+	width: 250px;
+	box-shadow: 
+	inset 0 0 10px #ffff,
+	inset 20px 0 70px  	#33FF33	,
+	inset -20px 0 70px 	#ff0080	,
+	inset 20px 0 200px  #33FF33	,
+	inset -20px 0 200px	#ff0080	,
+	0 0 30px #ffff,
+	-10px 0 80px 	#33FF33	,
+	10px 0 80px 	#ff0080	;
+
+}
+
+.bten {
+	border-radius: 50% 50% 50% 50%;
+	position: fixed;
+	
+	top: 50%;
+	left: 45%;
+	height: 250px;
+	width: 250px;
+	box-shadow: 
+	inset 0 0 10px #ffff,
+	inset 10px 0 40px  	#FFFF00,
+	inset -10px 0 40px 	#FF8000	,
+	inset 10px 0 75px  #FFFF00,
+	inset -10px 0 75px #FF8000,
+	0 0 30px #ffff,
+	-10px 0 75px 	#FFFF00,
+	10px 0 75px 	#FF8000	;
+
+}
+
+.beleven {
+	border-radius: 50% 50% 50% 50%;
+	transform: rotate(300deg);
+	position: fixed;
+	top: 50%;
+	left: 45%;
+	height: 250px;
+	width: 250px;
+	box-shadow: 
+	inset 0 0 10px #ffff,
+	inset 40px 0 95px #7A8B8B,
+	inset -40px 0 95px 	#FFC1C1,
+	inset 40px 0 320px  #7A8B8B,
+	inset -40px 0 320px #FFC1C1,
+	0 0 50px #ffff,
+	-10px 0 90px #7A8B8B,
+	10px 0 90px 	#FFC1C1;
+
+}
+
+.btwelve {
+	border-radius: 50% 50% 50% 50%;
+	transform: rotate(300deg);
+	position: fixed;
+	top: 50%;
+	left: 45%;
+	height: 250px;
+	width: 250px;
+	box-shadow: 
+	inset 0 0 10px #ffff,
+	inset 50px 0 120px #8C1717,
+	inset -50px 0 120px 	#FFC1C1,
+	inset 50px 0 420px  #8C1717,
+	inset -50px 0 420px #FFC1C1,
+	0 0 60px #ffff,
+	-15px 0 96px #8C1717,
+	15px 0 96px 	#FFC1C1;
+
+}
+
+.bthirt {
+	border-radius: 50% 50% 50% 50%;
+	position: fixed;
+	top: 5%;
+	left: 50%;
+	height: 250px;
+	width: 250px;
+	box-shadow:
+        inset 0 0 30px #fff,      /* inner white */
+        inset 20px 0 70px #76EE00,   /* inner left magenta short */
+        inset -20px 0 70px #808000,  /* inner right cyan short */
+        inset 20px 0 200px #76EE00,  /* inner left magenta broad */
+        inset -20px 0 200px #808000, /* inner right cyan broad */
+        0 0 30px #fff,            /* outer white */
+        -10px 0 80px #76EE00,        /* outer left magenta */
+        10px 0 80px #808000; 
+}
+
+
+}
