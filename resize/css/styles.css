@@ -28,6 +28,9 @@ html, body{
 
 }
 
+.square:hover {
+  background: transparent;
+}
 
 .blue1{ 
   background: #FC1501;  
@@ -860,7 +863,7 @@ html, body{
   }
 
 .square {
-  background:#008000 
+  background:#008000; 
 
 }
   .blue1{ 
