@@ -1,0 +1,148 @@
+html, body {
+  scroll-behavior: smooth;
+  height: 100%;
+  font-family: "objektiv-mk1";
+  margin: 0 0 0 0;
+  width: 100%;
+
+
+}
+
+#wrappertwo {
+  margin-left: 4%;
+  margin-top: 0%;
+}
+
+#title {
+  font-size: 240px;
+  position: relative;
+  font-weight: 800;
+  top: 17%;
+  width: 100%;
+  letter-spacing: 1px;
+  color: white;
+  margin: 0 0 0 0;
+  padding: 0 0 0 0;
+  left: 2%;
+  line-height: 260px;
+
+}
+#subheading {
+  font-size: 23px;
+  position: relative;
+  font-weight: 400;
+  top: 19%;
+  color: white;
+  margin: 0 0 0 0;
+  padding: 0 0 0 0;
+  left: 4%;
+  width: 100%;
+
+}
+
+.pageone {
+ background-color: #fcc61b;
+ height: 100%;
+ width: 100%;
+ top: 0%;
+ overflow: hidden;
+
+}
+
+.pagetwo {
+ background-color: white;
+ height: 100%;
+ width: 100%;
+overflow: hidden;
+}
+
+.pagethree {
+ background-color: white;
+ height: 100%;
+ width: 100%;
+overflow: hidden;
+}
+
+.pageoneabout {
+ background-color: white;
+ height: 100%;
+ width: 100%;
+overflow: hidden;
+}
+
+
+
+.vid {
+  margin-top: 0%;
+  position: relative;
+  margin-left: 4%;
+
+}
+
+#maintext {
+  color: #fcc61b;
+  font-weight: 600;
+  font-size: 60px;
+  padding: 0 0 0 0;
+  margin: 0 0 0 0;
+  margin-left: 4%;
+  margin-top: 
+}
+
+#abouttext {
+  color: #fcc61b;
+  font-weight: 600;
+  font-size: 35px;
+  padding: 0 0 0 0;
+  margin: 0 0 0 0;
+  margin-left: 4%;
+}
+
+.textwraptwo {
+  margin-top: 14%;
+  width: 90%;
+}
+
+#textwrap {
+  margin-top: 4.5%;
+  width: 90%;
+}
+
+.nav {
+  text-transform: uppercase;
+  margin-top: 2%;
+  display: inline-block;
+  margin-bottom: 0%;
+  padding-bottom: 0%;
+  position: absolute;
+  color: white;
+  font-size: 15px;
+  font-weight: 400;
+  margin-left: 1%;
+}
+
+#lyrics {
+  margin-left: 8%;
+}
+
+#ab {
+  margin-left: 3%;
+}
+
+
+.navtwo {
+  text-transform: uppercase;
+  margin-top: 2%;
+  display: inline-block;
+  margin-bottom: 0%;
+  padding-bottom: 0%;
+  position: absolute;
+  color: #fcc61b;
+  font-weight: 600;
+    font-size: 15px;
+    margin-left: 3%;
+}
+
+
+
+
